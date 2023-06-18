@@ -125,6 +125,7 @@ body {
 .contact-info__item-icon {
    height: 1.1428rem;
    vertical-align: text-bottom;
+   min-width: 30px;
 }
 
 .contact-info__avatar {
