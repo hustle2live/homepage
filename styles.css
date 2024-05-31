@@ -18,6 +18,12 @@ body {
    --text-decoration-color: #ff9a00;
 }
 
+.monotone {
+   filter: gray;
+   filter: grayscale(100%);
+   -webkit-filter: grayscale(100%);
+}
+
 .container {
    margin: 0 auto;
    padding: 0 30px;
