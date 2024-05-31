@@ -24,6 +24,10 @@ body {
    -webkit-filter: grayscale(100%);
 }
 
+.contact-info__block--center img {
+   scale: 1.45;
+}
+
 .container {
    margin: 0 auto;
    padding: 0 30px;
