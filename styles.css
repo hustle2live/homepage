@@ -18,6 +18,16 @@ body {
    --text-decoration-color: #ff9a00;
 }
 
+.monotone {
+   filter: gray;
+   filter: grayscale(100%);
+   -webkit-filter: grayscale(100%);
+}
+
+.contact-info__block--center img {
+   scale: 1.45;
+}
+
 .container {
    margin: 0 auto;
    padding: 0 30px;
