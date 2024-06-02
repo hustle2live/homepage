@@ -209,6 +209,11 @@ body {
    margin-bottom: 20px;
 }
 
+.experiences__list {
+   padding-left: 36px;
+   list-style-type: square;
+}
+
 .experiences__company-header-durability {
    color: var(--durability-text-color);
    text-align: left;
