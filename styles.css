@@ -19,13 +19,12 @@ body {
 }
 
 .monotone {
-   filter: gray;
    filter: grayscale(100%);
    -webkit-filter: grayscale(100%);
 }
 
 .contact-info__avatar {
-   scale: 1.45;
+   transform: scale(1.45);
 }
 .contact-info__avatar:hover {
    content: url('./assets/img/IMG-1.jpg');
