@@ -178,9 +178,22 @@ body {
    margin-bottom: 15px;
 }
 
+.skills__list {
+   justify-content: space-around;
+   list-style-type: disc;
+   color: #ff9a00;
+}
+
 .skills__text {
    color: var(--secondary-text-color);
    text-align: justify;
+   list-style-type: square;
+}
+
+.skills__text::marker {
+   color: #ff9a00;
+   font-size: larger;
+   vertical-align: middle;
 }
 
 /* Experience and additional info styles */
