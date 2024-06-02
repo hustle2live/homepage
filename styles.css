@@ -24,8 +24,11 @@ body {
    -webkit-filter: grayscale(100%);
 }
 
-.contact-info__block--center img {
+.contact-info__avatar {
    scale: 1.45;
+}
+.contact-info__avatar:hover {
+   content: url('./assets/img/IMG-1.jpg');
 }
 
 .container {
