@@ -295,7 +295,7 @@ body {
 .additional-info__languages-header {
    color: var(--secondary-text-color);
    text-align: left;
-   margin-bottom: 20px;
+   margin-bottom: 10px;
 }
 
 .additional-info__languages-item {
