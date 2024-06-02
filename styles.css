@@ -241,6 +241,16 @@ body {
 .additional-info__education {
    margin-bottom: 20px;
 }
+.additional-info__education ul {
+   padding-left: 35px;
+}
+
+.credential {
+   color: var(--text-decoration-color);
+}
+.credential:hover {
+   color: var(--secondary-text-color);
+}
 
 .additional-info__education-header {
    color: var(--secondary-text-color);
